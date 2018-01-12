@@ -1,6 +1,6 @@
 {
     "name": "zikula/andreas08-theme",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Based on the theme Andreas08 by Andreas Viklund",
     "type": "zikula-theme",
     "license": "LGPL-3.0+",
@@ -18,7 +18,7 @@
     },
     "extra": {
         "zikula" : {
-            "core-compatibility": ">=1.4.1",
+            "core-compatibility": ">=1.5.0",
             "class": "Zikula\\Andreas08Theme\\ZikulaAndreas08Theme",
             "displayname": "Andreas08",
             "capabilities": {
